@@ -1,11 +1,11 @@
 {
-  "UndefinedColorColorRed": "#168944ff",
-  "UndefinedColorColorRedDark": "#40b13eff",
-  "UndefinedColorColorRedLight": "#ff7b7bff",
-  "UndefinedColorColorBlue": "#275adcff",
-  "UndefinedColorColorBlueDark": "#002586ff",
-  "UndefinedColorColorBlueLight": "#a7c0ffff",
-  "UndefinedFontH1": {"fontSize":64,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":66,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
-  "UndefinedFontH2": {"fontSize":48,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":50,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
-  "UndefinedFontH3": {"fontSize":36,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":38,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"}
+  "UndefinedColorRed": "#168944ff",
+  "UndefinedColorRedDark": "#40b13eff",
+  "UndefinedColorRedLight": "#ff7b7bff",
+  "UndefinedColorBlue": "#275adcff",
+  "UndefinedColorBlueDark": "#002586ff",
+  "UndefinedColorBlueLight": "#a7c0ffff",
+  "UndefinedH1": {"fontSize":64,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":66,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "UndefinedH2": {"fontSize":48,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":50,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "UndefinedH3": {"fontSize":36,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":38,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"}
 }

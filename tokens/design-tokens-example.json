@@ -1,85 +1,81 @@
 {
   "undefined": {
-    "color": {
-      "colorRed": {
-        "description": null,
-        "type": "color",
-        "value": "#168944ff"
-      },
-      "colorRedDark": {
-        "description": null,
-        "type": "color",
-        "value": "#40b13eff"
-      },
-      "colorRedLight": {
-        "description": null,
-        "type": "color",
-        "value": "#ff7b7bff"
-      },
-      "colorBlue": {
-        "description": null,
-        "type": "color",
-        "value": "#275adcff"
-      },
-      "colorBlueDark": {
-        "description": null,
-        "type": "color",
-        "value": "#002586ff"
-      },
-      "colorBlueLight": {
-        "description": null,
-        "type": "color",
-        "value": "#a7c0ffff"
+    "colorRed": {
+      "description": null,
+      "type": "color",
+      "value": "#168944ff"
+    },
+    "colorRedDark": {
+      "description": null,
+      "type": "color",
+      "value": "#40b13eff"
+    },
+    "colorRedLight": {
+      "description": null,
+      "type": "color",
+      "value": "#ff7b7bff"
+    },
+    "colorBlue": {
+      "description": null,
+      "type": "color",
+      "value": "#275adcff"
+    },
+    "colorBlueDark": {
+      "description": null,
+      "type": "color",
+      "value": "#002586ff"
+    },
+    "colorBlueLight": {
+      "description": null,
+      "type": "color",
+      "value": "#a7c0ffff"
+    },
+    "h1": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 64,
+        "textDecoration": "none",
+        "fontFamily": "Roboto",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 66,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
       }
     },
-    "font": {
-      "h1": {
-        "type": "custom-fontStyle",
-        "value": {
-          "fontSize": 64,
-          "textDecoration": "none",
-          "fontFamily": "Roboto",
-          "fontWeight": 400,
-          "fontStyle": "normal",
-          "fontStretch": "normal",
-          "letterSpacing": 0,
-          "lineHeight": 66,
-          "paragraphIndent": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none"
-        }
-      },
-      "h2": {
-        "type": "custom-fontStyle",
-        "value": {
-          "fontSize": 48,
-          "textDecoration": "none",
-          "fontFamily": "Roboto",
-          "fontWeight": 400,
-          "fontStyle": "normal",
-          "fontStretch": "normal",
-          "letterSpacing": 0,
-          "lineHeight": 50,
-          "paragraphIndent": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none"
-        }
-      },
-      "h3": {
-        "type": "custom-fontStyle",
-        "value": {
-          "fontSize": 36,
-          "textDecoration": "none",
-          "fontFamily": "Roboto",
-          "fontWeight": 400,
-          "fontStyle": "normal",
-          "fontStretch": "normal",
-          "letterSpacing": 0,
-          "lineHeight": 38,
-          "paragraphIndent": 0,
-          "paragraphSpacing": 0,
-          "textCase": "none"
-        }
+    "h2": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 48,
+        "textDecoration": "none",
+        "fontFamily": "Roboto",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 50,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
+      }
+    },
+    "h3": {
+      "type": "custom-fontStyle",
+      "value": {
+        "fontSize": 36,
+        "textDecoration": "none",
+        "fontFamily": "Roboto",
+        "fontWeight": 400,
+        "fontStyle": "normal",
+        "fontStretch": "normal",
+        "letterSpacing": 0,
+        "lineHeight": 38,
+        "paragraphIndent": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none"
       }
     }
   }
