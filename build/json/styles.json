@@ -1,11 +1,11 @@
 {
-  "ColorColorRed": "#168944",
-  "ColorColorRedDark": "#40b13e",
-  "ColorColorRedLight": "#ff7b7b",
-  "ColorColorBlue": "#275adc",
-  "ColorColorBlueDark": "#002586",
-  "ColorColorBlueLight": "#a7c0ff",
-  "FontH1": {"fontSize":64,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":66,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
-  "FontH2": {"fontSize":48,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":50,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
-  "FontH3": {"fontSize":36,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":38,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"}
+  "UndefinedColorColorRed": "#168944ff",
+  "UndefinedColorColorRedDark": "#40b13eff",
+  "UndefinedColorColorRedLight": "#ff7b7bff",
+  "UndefinedColorColorBlue": "#275adcff",
+  "UndefinedColorColorBlueDark": "#002586ff",
+  "UndefinedColorColorBlueLight": "#a7c0ffff",
+  "UndefinedFontH1": {"fontSize":64,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":66,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "UndefinedFontH2": {"fontSize":48,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":50,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
+  "UndefinedFontH3": {"fontSize":36,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":38,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"}
 }

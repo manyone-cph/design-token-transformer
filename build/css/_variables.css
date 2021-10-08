@@ -1,11 +1,11 @@
 :root {
-  --color-color-red: #168944;
-  --color-color-red-dark: #40b13e;
-  --color-color-red-light: #ff7b7b;
-  --color-color-blue: #275adc;
-  --color-color-blue-dark: #002586;
-  --color-color-blue-light: #a7c0ff;
-  --font-h1: [object Object];
-  --font-h2: [object Object];
-  --font-h3: [object Object];
+  --undefined-color-color-red: #168944ff;
+  --undefined-color-color-red-dark: #40b13eff;
+  --undefined-color-color-red-light: #ff7b7bff;
+  --undefined-color-color-blue: #275adcff;
+  --undefined-color-color-blue-dark: #002586ff;
+  --undefined-color-color-blue-light: #a7c0ffff;
+  --undefined-font-h1: [object Object];
+  --undefined-font-h2: [object Object];
+  --undefined-font-h3: [object Object];
 }
